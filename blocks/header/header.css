@@ -1,0 +1,10 @@
+@import url(./__nav/header__nav.css);
+@import url(./__logo/header__logo.css);
+@import url(./__buy-btn/header__buy-btn.css);
+
+.header {
+  width: 80%;
+  margin: auto;
+  display: flex;
+  justify-content: space-between;
+}
