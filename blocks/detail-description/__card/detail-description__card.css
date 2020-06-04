@@ -1,0 +1,6 @@
+.detail-description__card {
+  display: flex;
+  justify-content: flex-end;
+  align-items: center;
+  padding: 110px 0;
+}

@@ -1,8 +1,12 @@
 .intro__brief {
   margin: 0;
-  margin-bottom: 69px;
+  margin-bottom: 16px;
   color: #505F98;
   line-height: 30px;
   font-size: 18px;
   font-weight: normal;
+}
+
+.intro__brief:last-of-type {
+  margin-bottom: 69px;
 }

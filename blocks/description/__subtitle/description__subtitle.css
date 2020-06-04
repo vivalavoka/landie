@@ -1,3 +1,7 @@
 .description__subtitle {
+  margin-bottom: 16px;
+}
+
+.description__subtitle:last-of-type {
   margin-bottom: 80px;
 }

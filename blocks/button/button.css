@@ -4,4 +4,6 @@
   text-decoration: none;
   text-align: center;
   border-radius: 2px;
+  overflow: hidden;
+  white-space: nowrap;
 }
