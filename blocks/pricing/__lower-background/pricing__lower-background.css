@@ -1,0 +1,9 @@
+.pricing__lower-background {
+  position: absolute;
+  background-image: url(../lower-background.svg);
+  background-repeat: no-repeat;
+  width: 1440px;
+  height: 938px;
+  transform: translate(-10%, -10%);
+  z-index: -200;
+}

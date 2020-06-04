@@ -1,0 +1,9 @@
+.pricing__near-background {
+  position: absolute;
+  background-image: url(../near-background.svg);
+  background-repeat: no-repeat;
+  width: 1060px;
+  height: 806px;
+  transform: translate(2%, -20%);
+  z-index: -100;
+}
