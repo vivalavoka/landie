@@ -1,0 +1,13 @@
+@import url(./__title/description__title.css);
+@import url(./__subtitle/description__subtitle.css);
+@import url(./__cards/description__cards.css);
+@import url(./__card/description__card.css);
+@import url(./__card-icon/description__card-icon.css);
+@import url(./__card-title/description__card-title.css);
+@import url(./__card-subtitle/description__card-subtitle.css);
+
+.description {
+  padding-top: 160px;
+  padding-bottom: 162px;
+  width: 540px;
+}

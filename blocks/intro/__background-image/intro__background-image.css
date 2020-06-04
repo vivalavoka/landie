@@ -1,0 +1,8 @@
+.intro__background-image {
+  position: absolute;
+  z-index: -100;
+  background-image: url(./background-image.svg);
+  background-repeat: no-repeat;
+  width: 1023px;
+  height: 1160px;
+}

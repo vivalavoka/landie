@@ -12,4 +12,13 @@
 @import url(./blocks/button/_theme/button_theme_dark.css);
 @import url(./blocks/button/_theme/button_theme_light.css);
 
+@import url(./blocks/section-title/section-title.css);
+@import url(./blocks/section-subtitle/section-subtitle.css);
+
 @import url(./blocks/header/header.css);
+
+@import url(./blocks/content/content.css);
+
+@import url(./blocks/intro/intro.css);
+
+@import url(./blocks/description/description.css);

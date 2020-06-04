@@ -1,0 +1,11 @@
+@import url(./__background-image/intro__background-image.css);
+@import url(./__title/intro__title.css);
+@import url(./__brief/intro__brief.css);
+@import url(./__btn-zone/intro__btn-zone.css);
+@import url(./__btn/intro__btn.css);
+
+.intro {
+  width: 539px;
+  padding-top: 303px;
+  padding-bottom: 384px;
+}

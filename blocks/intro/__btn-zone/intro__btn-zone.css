@@ -1,0 +1,5 @@
+.intro__btn-zone {
+  width: 412px;
+  display: flex;
+  justify-content: space-between;
+}

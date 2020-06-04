@@ -1,6 +1,10 @@
+@import url(./__background-image/page__background-image.css);
+
 .page {
-  font-family: "Roboto Reg" , Arial, sans-serif;
-  min-width: 1100px;
+  font-family: "Roboto" , Arial, sans-serif;
+  font-weight: normal;
+  min-width: 1440px;
   max-width: 1440px;
   margin: auto;
+  position: relative;
 }
