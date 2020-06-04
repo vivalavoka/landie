@@ -27,3 +27,5 @@
 @import url(./blocks/detail-description/__image/_type/detail-description__image_type_lotus.css);
 @import url(./blocks/detail-description/__image/_type/detail-description__image_type_phone.css);
 @import url(./blocks/detail-description/__image/_type/detail-description__image_type_comm-at.css);
+
+@import url(./blocks/pricing/pricing.css);

@@ -1,0 +1,12 @@
+@import url(./__title/pricing__title.css);
+@import url(./__subtitle/pricing__subtitle.css);
+@import url(./__price-sum/pricing__price-sum.css);
+@import url(./__price-title/pricing__price-title.css);
+@import url(./__price-subscription/pricing__price-subscription.css);
+@import url(./__btn/pricing__btn.css);
+
+.pricing {
+  padding-top: 200px;
+  padding-bottom: 260px;
+  text-align: center;
+}
