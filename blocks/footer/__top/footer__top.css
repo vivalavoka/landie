@@ -1,4 +1,4 @@
 .footer__top {
-  display: flex;
-  align-items: center;
+  position: relative;
+  padding-top: 61px;
 }
