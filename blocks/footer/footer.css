@@ -4,6 +4,11 @@
 @import url(./__logo/footer__logo.css);
 @import url(./__btn/footer__btn.css);
 
+@import url(./__bottom/footer__bottom.css);
+@import url(./__nav/footer__nav.css);
+@import url(./__link/footer__link.css);
+@import url(./__social/footer__social.css);
+
 .footer {
   width: 100%;
   height: 216px;
